@@ -181,7 +181,6 @@ int main(){
                         }
                     }
                 else{
-                    
                     double p_x_deg = 0-x_deg;
                     int cnt;
                     for (int i=1; i<=10; i++){
